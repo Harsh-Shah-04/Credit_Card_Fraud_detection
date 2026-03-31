@@ -1,0 +1,21 @@
+Amount,MerchantID,TransactionType,Hour,Day,Month,DayOfWeek,Location
+150.50,101,Online,14,15,6,3,New York
+2500.00,205,In-Store,9,20,3,1,Los Angeles
+500.00,342,ATM,22,5,11,5,Dallas
+5000.00,128,Transfer,18,28,8,2,Philadelphia
+75.99,456,Online,10,10,5,0,Houston
+1200.50,789,In-Store,15,22,4,2,Phoenix
+890.25,234,Online,23,3,12,4,San Diego
+450.00,567,ATM,11,18,7,1,San Antonio
+3500.75,890,Transfer,16,25,9,3,San Jose
+99.99,123,Online,8,7,2,5,New York
+250.00,654,In-Store,13,14,10,0,Dallas
+5500.00,987,ATM,20,30,1,6,Los Angeles
+1100.00,321,Transfer,7,8,6,2,Houston
+680.50,432,Online,17,19,3,4,Phoenix
+420.00,765,In-Store,12,11,11,1,Philadelphia
+2300.75,876,Online,21,26,5,3,San Diego
+750.25,543,Transfer,10,2,8,5,San Antonio
+1950.00,654,ATM,18,21,4,0,San Jose
+600.00,111,Online,14,9,12,2,Dallas
+3200.00,222,In-Store,11,24,7,4,New York
